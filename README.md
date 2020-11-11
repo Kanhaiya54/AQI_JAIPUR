@@ -7,4 +7,4 @@ This is a Machine Learning model for finding Air Quality Index in Jaipur State!
 4. Finally Deployed all of the HTML, CSS, FLASK API, Random Forest Machine Learning Model into Google Cloud Platform(GCP)
 
 You can look up the model prediction at this link:
-https://airqualityindex-295303.wl.r.appspot.com/predict
+https://airqualityindex-295303.wl.r.appspot.com/
