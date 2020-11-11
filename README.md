@@ -8,3 +8,5 @@ This is a Machine Learning model for finding Air Quality Index in Jaipur State G
 
 You can look up the model prediction at this link:
 https://airqualityindex-295303.wl.r.appspot.com/
+
+(Currently Link is disabled, due to continous charge of GCP)
