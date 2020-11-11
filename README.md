@@ -1,5 +1,5 @@
 # AQI_JAIPUR in Google Cloud Platform
-This is a Machine Learning model for finding Air Quality Index in Jaipur State!
+This is a Machine Learning model for finding Air Quality Index in Jaipur State GCP Deployment!
 
 1. Built a Machine Learning Model using RandomForest to predict the Air Quality Index of Jaipur state, in India.
 2. Then developed a Flask API model for local deployement of the model.
